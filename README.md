@@ -2,7 +2,7 @@
 
 **SR Blogs** is a fully responsive blogging platform built using the **MERN stack** (MongoDB, Express.js, React, Node.js) and styled with **Tailwind CSS**. This platform enables users to read blogs, post comments, and interact with content, while admins have robust dashboard functionalities for managing blogs, users, and visualizing data. It also includes user authentication and authorization using **JWT** and **bcrypt**.
 
----
+![SR Blogs Snapshot](SRimg.png)
 
 ## 🛠️ Technologies Used
 
@@ -26,8 +26,6 @@
 - **Postman**: Tested and validated API endpoints.
 - **Chart.js**: Visualized data with intuitive charts and graphs.
 
----
-
 ## 🌟 Key Features
 
 ### User Features
@@ -45,8 +43,7 @@
   - **Data Visualization**: View platform analytics using charts and graphs.
 - **Role-Based Access**: Admin privileges are separate from user functionalities.
   
----
 
-## 📸 Project Snapshot  
-![SR Blogs Snapshot](SRimg.png)
+
+
 
